@@ -26,4 +26,4 @@ window.onload = function (){
 
 }
 
-// document.getElementById('generate').addEventListener('click', generateQuote)();
+document.getElementById('generate').addEventListener('click', generateQuote)();
